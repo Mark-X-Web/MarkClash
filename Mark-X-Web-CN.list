@@ -2,3 +2,20 @@
 # 数量：2条
 DOMAIN-SUFFIX,aiinyue.com
 DOMAIN-SUFFIX,navidrome.org
+# ======================
+# PUBG Mobile 登录 / 授权（直连）
+# ======================
+
+DOMAIN-SUFFIX,pubgmobile.com
+DOMAIN-SUFFIX,gpubgm.com
+DOMAIN-SUFFIX,pubgmobile.kr
+DOMAIN-SUFFIX,proximabeta.com
+DOMAIN-SUFFIX,igamecj.com
+DOMAIN-SUFFIX,krafton.com
+
+# iOS 登录必须
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,itunes.apple.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,googleapis.com

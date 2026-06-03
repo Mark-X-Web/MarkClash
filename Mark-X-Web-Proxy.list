@@ -1,5 +1,6 @@
 # 内容:Proxy
-# 数量:3条
+# 数量:4条
 DOMAIN,dl.google.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,ampproject.org

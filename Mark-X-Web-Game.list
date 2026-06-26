@@ -1,5 +1,5 @@
 # 内容：Game
-# 数量：14条
+# 数量：21条
 DOMAIN-KEYWORD,pubg
 DOMAIN-SUFFIX,pubgmobile.com
 DOMAIN-SUFFIX,gpubgm.com
@@ -14,3 +14,10 @@ DOMAIN-SUFFIX,vivox.com
 DOMAIN-SUFFIX,vxcss.com
 DOMAIN-SUFFIX,anticorpt.com
 DOMAIN-SUFFIX,gcloudsys.com
+DOMAIN-KEYWORD,honorofkings
+DOMAIN-SUFFIX,honorofkings.com
+DOMAIN-KEYWORD,arenaofvalor
+DOMAIN-SUFFIX,arenaofvalor.com
+DOMAIN-SUFFIX,aovoriginal.com
+DOMAIN-SUFFIX,hokoriginal.com
+DOMAIN-SUFFIX,tgpa.io

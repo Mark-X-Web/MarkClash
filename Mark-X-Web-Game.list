@@ -1,5 +1,5 @@
 # 内容：Game
-# 数量：25条
+# 数量：21条
 DOMAIN-KEYWORD,pubg
 DOMAIN-SUFFIX,pubgmobile.com
 DOMAIN-SUFFIX,gpubgm.com
@@ -21,7 +21,3 @@ DOMAIN-SUFFIX,arenaofvalor.com
 DOMAIN-SUFFIX,aovoriginal.com
 DOMAIN-SUFFIX,hokoriginal.com
 DOMAIN-SUFFIX,tgpa.io
-DOMAIN-SUFFIX,intl.tencent.com
-DOMAIN-SUFFIX,gcloud.tencent.com
-DOMAIN-SUFFIX,gcloudintl.com
-DOMAIN-SUFFIX,cros.wrts.sg

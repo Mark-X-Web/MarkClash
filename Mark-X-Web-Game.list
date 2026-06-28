@@ -1,16 +1,20 @@
 # 内容：Game
-# 数量：14条
+# 数量：18条
 DOMAIN-KEYWORD,pubg
 DOMAIN-SUFFIX,pubgmobile.com
 DOMAIN-SUFFIX,gpubgm.com
 DOMAIN-SUFFIX,amsoveasea.com
 DOMAIN-SUFFIX,igamecj.com
 DOMAIN-SUFFIX,ax669.com
+DOMAIN-KEYWORD,honorofkings
+DOMAIN-SUFFIX,honorofkings.com
+DOMAIN-SUFFIX,hokoriginal.com
+DOMAIN-SUFFIX,levelinfinite.com
+DOMAIN-SUFFIX,proximabeta.com
+DOMAIN-SUFFIX,intlgame.com
+DOMAIN-SUFFIX,gcloudsys.com
 DOMAIN-KEYWORD,vivox
 DOMAIN-SUFFIX,vivox.com
 DOMAIN-SUFFIX,vxcss.com
 DOMAIN-SUFFIX,anticorpt.com
-DOMAIN-KEYWORD,honorofkings
-DOMAIN-SUFFIX,honorofkings.com
-DOMAIN-SUFFIX,hokoriginal.com
 DOMAIN-SUFFIX,tgpa.io
